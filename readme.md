@@ -1,6 +1,6 @@
 # Node Hello Web
 
-This is a simple Node.js web application.
+This is a simple Node.js web application for demo purpose.
 
 ## Docker Build and Push
 
