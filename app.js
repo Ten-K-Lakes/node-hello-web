@@ -35,9 +35,9 @@ app.get("/students/:id", (req, res) => {
 });
 
 // Start the server
-app.listen(3000, () => {
-  console.log("Server is running on port 3000");
+app.listen(8080, () => {
+  console.log("Server is running on port 8080");
 });
 
-// command running the above application on 3000 port
+// command running the above application on 8080 port
 // node app.js
